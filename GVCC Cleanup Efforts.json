@@ -1,0 +1,9 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.265145,37.95163,0]},"properties":{"name":"Mow and Hedge","styleUrl":"#icon-1899-0288D1-nodesc","icon-scale":1,"icon-offset":[32,64],"icon-offset-units":["pixels","insetPixels"],"icon":"images/icon-1.png"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.2487092,37.9576352,0]},"properties":{"name":"Party Patrol","styleUrl":"#icon-1899-0288D1-nodesc","icon-scale":1,"icon-offset":[32,64],"icon-offset-units":["pixels","insetPixels"],"icon":"images/icon-1.png"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.227938,37.9611063,0]},"properties":{"name":"Spray Paint","styleUrl":"#icon-1899-0288D1-nodesc","icon-scale":1,"icon-offset":[32,64],"icon-offset-units":["pixels","insetPixels"],"icon":"images/icon-1.png"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.2862705,37.9721742,0]},"properties":{"name":"San Joaquin Catholic Cemetery","styleUrl":"#icon-1899-0288D1-nodesc","icon-scale":1,"icon-offset":[32,64],"icon-offset-units":["pixels","insetPixels"],"icon":"images/icon-1.png"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.2561985,37.9758454,0]},"properties":{"name":"Gianone Park","styleUrl":"#icon-1899-0288D1-nodesc","icon-scale":1,"icon-offset":[32,64],"icon-offset-units":["pixels","insetPixels"],"icon":"images/icon-1.png"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.280674,37.928335,0]},"properties":{"name":"Recycling Pickup","styleUrl":"#icon-1899-0288D1-nodesc","icon-scale":1,"icon-offset":[32,64],"icon-offset-units":["pixels","insetPixels"],"icon":"images/icon-1.png"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.2887433,37.926438,0]},"properties":{"name":"Etc Items","styleUrl":"#icon-1899-0288D1-nodesc","icon-scale":1,"icon-offset":[32,64],"icon-offset-units":["pixels","insetPixels"],"icon":"images/icon-1.png"}}
+]}
